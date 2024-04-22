@@ -1,0 +1,448 @@
+* {
+    font-family: "ALK Rounded Nusx Med", sans-serif;
+}
+
+#htmltag {
+    display: inline-block;
+    color: #30CBC2;
+    width: 223px;
+    height: 58px;
+    top: -470px;
+    left: -757px;
+    font-family: inter;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 58.09px;
+    margin-left: 50px;
+  }
+  
+  #main {
+    display: inline-block;
+    width: 115px;
+    height: 34px;
+    top: -458px;
+    left: -474px;
+    font-family: FiraGO;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31.2px;
+    color: #4E6FAE;
+    text-decoration: none;
+  }
+ 
+  #news {
+    display: inline-block;
+    width: 150px;
+    height: 34px;
+    top: -458px;
+    left: -272px;
+    font: FiraGO;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31.2px;
+    color: #8D81FF;
+    text-decoration: none;
+  }
+ 
+  #contact {
+    display: inline-block;
+    width: 150px;
+    height: 34px;
+    font-family: FiraGO;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 31.2px;
+    color: #8D81FF;
+    text-decoration: none;
+  }
+  
+ #box {
+     background-color: #5012D5;
+     display: inline-block;
+     width: 50px;
+     height: 50px;
+     margin-left: 40px;
+ }
+ 
+  #may26 {
+   width: 31px;
+   height: 34px;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 27.6px;
+   margin-left: 13px;
+   margin-top: 11px;
+   color: #84FF81;
+ }
+ 
+ #may {
+    display: inline-block;
+    color: #8D81FF;
+    margin: 0px;
+    padding: 0px;
+    font-size: 30px;
+    margin-left: 40px;
+    font-family: "ALK Rounded Nusx Med", sans-serif;
+ }
+
+ #infothatnobodycaresabout {
+    margin-left: 40px;
+    font-size: 20px;
+    line-height: 24px; 
+    color: #4E6FAE;
+    font-weight: 700;
+    font-family: "ALK Rounded Nusx Med", sans-serif;
+ }
+ 
+ #photo1{
+   display: inline-block;
+   width: 447px;
+   height: 280px;
+   top: -221px;
+   left: -757px;
+   margin-left: 40px;
+ }
+ 
+ #box1 {
+   display:inline-block;
+ }
+ 
+ #paragraph1 {
+   display: inline-block;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 19.2px;
+   width: 778px;
+   height: 255px;
+   top: -210px;
+   left: -244px;
+   color: #4E6FAE;
+   margin-top: 0;
+   margin-bottom: 0;
+   margin-left: 100px;
+   font-family: "ALK Rounded Nusx Med", sans-serif;
+ }
+ 
+ #ol1 {
+   display: inline-block;
+   margin-left: 565px;
+   color:#4E6FAE;
+   height: 200px;
+   width: 788px;
+   line-height: 19.2px;
+   font-size: 16px;
+   font-weight: 400;
+   margin-top: 0;
+   margin-bottom: 0;
+   font-family: "ALK Rounded Nusx Med", sans-serif;
+ }
+ 
+ #box2, #box3 {
+   background-color: #5012D5;
+   display: block;
+   width: 50px;
+   height: 50px;
+   margin-left: 40px;
+ }
+ 
+ #may27 {
+   display: inline-block;
+   width: 31px;
+   height: 34px;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 27.6px;
+   margin-left: 13px;
+   margin-top: 11px;
+   color: #84FF81;
+ }
+ 
+ #idk {
+   width: 466px;
+   height: 34px;
+   color: #4E6FAE;
+   font-family: "ALK Rounded Nusx Med", sans-serif;
+   font-size: 20px;
+   line-height: 24px;
+   margin-left: 40px;
+   font-weight: 700;
+ }
+ 
+ #paragraph2 {
+   display: inline-block;
+   font-family: FiraGO;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 19.2px;
+   width: 778px;
+   height: 255px;
+   color: #4E6FAE;
+   margin-top: 0;
+   margin-bottom: 0;
+   margin-left: 600px;
+ }
+ 
+ #box4 {
+   margin-top: 150px;
+   margin-left: 40px;
+   background-color: #5012D5;
+   width: 50px;
+   height: 50px;
+ }
+ 
+ #may28 {
+   display: inline-block;
+   width: 31px;
+   height: 34px;
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 27.6px;
+   margin-top: 11px;
+   margin-left: 13px;
+   color: #84FF81;
+ }
+ 
+ #box5 {
+   display: inline-block;
+   margin-left: 40px;
+   background-color: #5012D5;
+   width: 50px;
+   height: 50px;
+ }
+ 
+ #paragraph3 {
+   display: inline-block;
+   width: 1021px;
+   height: 148px;
+   font-weight: 400;
+   font-size: 16px;
+   line-height: 19.2px;
+   margin-left: 40px;
+   color: #4E6FAE;
+ }
+ 
+ #fb {
+   width: 50px;
+   height: 50px;
+   display: inline-block;
+ }
+ 
+ #yt {
+   width: 71px;
+   height: 49px;
+   display: inline-block;
+   margin-left: 25px;
+ }
+ 
+ #nav1 {
+   margin-top: 100px;
+   margin-left: 40px;
+ }
+ 
+ #line1 {
+   margin-left: 30px;
+ }
+ 
+ #imghtml {
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+ }
+ 
+ #news1 {
+   display: inline-block;
+   width: 150px;
+   height: 34px;
+   font: FiraGO;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 31.2px;
+   color: #4E6FAE;
+   text-decoration: none;
+ }
+ 
+ #main1 {
+   display: inline-block;
+   width: 115px;
+   height: 34px;
+   font-family: FiraGO;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 31.2px;
+   color: #8D81FF;
+   text-decoration: none;
+ }
+ 
+ #contact1 {
+   text-decoration: none;
+   display: inline-block;
+   width: 150px;
+   height: 34px;
+   font-family: FiraGO;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 31.2px;
+   color: #8D81FF;
+ }
+ 
+ #newsbox1 {
+   width: 500px;
+   height: 192px;
+   background-color: #E7E7E7;
+   margin-left: 225.5px;
+   margin-top: 25px;
+   display: inline-block;
+ }
+ 
+ #new {
+   margin-top: 150px;
+   margin-left: 225.5px;
+   display: inline-block;
+   width: 150px;
+   height: 34px;
+   font-family: FiraGO;
+   font-size: 26px;
+   line-height: 31.2px;
+   font-weight: 700;
+   color: #4E6FAE;
+ }
+ 
+ #line2 {
+   display: inline-block;
+   margin-left: 15px;
+   width: 2px;
+   height: 20px;
+ }
+ 
+ #seenew {
+   display: inline-block;
+   margin-left: 20px;
+   width: 484px;
+   height: 34px;
+   font-weight: 500;
+   font-size: 26px;
+   line-height: 31.2px;
+   color: #4E6FAE;
+   font-family: FiraGO;
+ }
+ 
+ #search {
+   width: 77px;
+   height: 77px;
+   margin-left: 25px;
+ }
+ 
+ #webdev {
+   margin-left: 25px;
+   height: 24px;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 24.14px;
+   color: #3F4145;
+ }
+ 
+ #pnew {
+   display: inline-block;
+   width: 335px;
+   height: 95px;
+   font-size: 16px;
+   line-height: 19.31px;
+   font-weight: 400;
+   color: #7E8898;
+   margin-left: 25px;
+ }
+ 
+ #newsbox2 {
+   display: inline-block;
+   width: 500px;
+   height: 192px;
+   background-color: #E7E7E7;
+   margin-top: 25px;
+   margin-left: 50px;
+ }
+ 
+ #check {
+   width: 89px;
+   height: 89px;
+   margin-left: 25px;
+ }
+ 
+ #fb1 {
+   width: 50px;
+   height: 50px;
+   margin-left: 185px;
+ }
+ 
+ #yt1 {
+   width: 71px;
+   height: 49px;
+   margin-left: 25px;
+ }
+ 
+ #line3 {
+   margin-left: 30px;
+ }
+ 
+ #main, #main1, #main2, #news, #news1, #news2, #contact, #contact1, #contact2 {
+   margin-left: 70px;
+ }
+ 
+ #main2 {
+   width: 115px;
+   height: 34px;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 31.2px;
+   color: #8D81FF;
+   text-decoration: none;
+ }
+ 
+ #news2 {
+   width: 115px;
+   height: 34px;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 31.2px;
+   color: #8D81FF;
+   text-decoration: none;
+ }
+ 
+ #contact2 {
+   width: 115px;
+   height: 34px;
+   font-weight: 700;
+   font-size: 26px;
+   line-height: 31.2px;
+   color: #4E6FAE;
+   text-decoration: none;
+ }
+ /*მას აქ კლასზე შევცვალე სალომემ მითხრა ჯობია ასეთ შემთხვევაშიო */
+ 
+ .bigdiv {
+   height: 736px;
+   width: 1300;
+   padding: 94px 40px 80px 162px;
+   background-color: #E7E7E7;
+   display: flex;
+   justify-content: space-between;
+ }
+ 
+ .contactdiv {
+   width: 474px;
+ }
+ 
+ .contactp {
+   font-size: 36px;
+   font-weight: 700;
+   color: #4E6FAE;
+ }
+ 
+ iframe {
+   width: 940px;
+   height: 550px;
+ }
+ 
+ span {
+   color: gray;
+   font-weight: 600;
+ }
